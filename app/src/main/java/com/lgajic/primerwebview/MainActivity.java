@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void openWebPage() {
         Intent i = new Intent(this, WebActivity.class);
 
-        Bundle bundle = new Bundle();
         i.putExtra("url", "https://www.bbc.com/");
 
         startActivity(i);
