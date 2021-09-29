@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimerWebView</string>
+
+    <string name="button_open_webpage_title">Otvorite Veb stranicu</string>
+</resources>
